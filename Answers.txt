@@ -1,0 +1,11 @@
+What is the difference between an adaptive website and a fully responsive website?
+    Answer: An adaptive website has percentages for values such as width, height, etc, but no media queries. A fully repsonsive site has both percentages and media queries. 
+Describe what it means to be mobile first vs desktop first.
+    Answer: Mobile first means that the particular site is intended for use primarily on mobile devices and then adapts to a larger screen. Desktop first means that it is prima
+What does font-size: 62.5% in the html tag do for us when using rem units?
+    Answer: Using 62.5% as the font size both allows the developer to have a base amount approximating 10px, but also allows the site to be more fluid. 
+How would you describe preprocessing to someone new to CSS?
+    Answer: Preprocessing is a stronger syntax for our CSS which gives us more power with the code that we write. 
+What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+    Answer: My favorite concept in preprocessing is nesting. It allows my code to be more organized and can be referenced more easily. 
+            The concept I probably had the most trouble with is media queries being nested. 
